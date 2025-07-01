@@ -1,0 +1,301 @@
+﻿Book No.,Book-Title,Author,Subject,Image URL
+1,Higher Engineering Mathematics,B.S.Grewal,Mathematics,"https://m.media-amazon.com/images/I/617pWj4VBvL._AC_UF1000,1000_QL80_.jpg"
+2,Engineering Mathematics,K.A.Stroud,Mathematics,"https://m.media-amazon.com/images/I/41Jwj2eivLL._AC_UF1000,1000_QL80_.jpg"
+3,Engineering Mathematics,N.P.Bali,Mathematics,https://m.media-amazon.com/images/I/519lKRfX4vL.jpg
+4,Engineering Mathematics,B.V.Ramana,Mathematics,"https://m.media-amazon.com/images/I/816KBqX+V0L._AC_UF1000,1000_QL80_.jpg"
+5,A Textbook of Engineering Mathematic,N.P.Bali and Manish Goyal,Mathematics,https://m.media-amazon.com/images/I/519lKRfX4vL.jpg
+6,Engineering Mathematics,H.K.Das,Mathematics,https://m.media-amazon.com/images/I/519WT+852jL.jpg
+7,Advanced Engineering Mathematics,Dennis G. Zill and Warren S. Wright,Mathematics,"https://images-eu.ssl-images-amazon.com/images/I/61Wd1eNG01L._AC_UL210_SR210,210_.jpg"
+8,Engineering Mathematics,S. Chand,Mathematics,https://m.media-amazon.com/images/I/51fVIERsIhL.jpg
+9,Higher Engineering Mathematics,John Bird,Mathematics,"https://m.media-amazon.com/images/I/81JtVlyuzKL._AC_UF350,350_QL50_.jpg"
+10,Advanced Engineering Mathematics,Michael Greenberg,Mathematics,https://5.imimg.com/data5/SELLER/Default/2023/8/338130596/AM/DW/MD/121408955/pic-1.jpg
+11,Engineering Mathematics,Anthony Croft and Robert Davison,Mathematics,"https://m.media-amazon.com/images/I/81nrP2q16VL._AC_UF1000,1000_QL80_.jpg"
+12,Advanced Engineering Mathematics,Erwin Kreyszig,Mathematics,https://rukminim2.flixcart.com/image/850/1000/kjd6nww0-0/book/v/p/k/advanced-engineering-mathematics-original-imafyxtgryh69vkr.jpeg?q=90
+13,University Physics,Hugh D. Young and Roger A. Freedman,Physics,"https://m.media-amazon.com/images/I/51Y2Uuy-mrL._AC_UF1000,1000_QL80_.jpg"
+14,Physics for Scientists and Engineers,Paul A. Tipler and Gene Mosca,Physics,"https://m.media-amazon.com/images/I/61rTfBYmv1L._AC_UF350,350_QL50_.jpg"
+15, Fundamentals of Physics,"David Halliday, Robert Resnick, and Jearl Walker",Physics,"https://m.media-amazon.com/images/I/91s7QzLralL._AC_UF1000,1000_QL80_.jpg"
+16,Engineering Physics,Serway and Jewett,Physics,"https://m.media-amazon.com/images/I/71hXyK8kk2L._AC_UF1000,1000_QL80_.jpg"
+17,Modern Physics for Scientists and Engineers,John Morrison,Physics,"https://m.media-amazon.com/images/I/61BY-p1N60L._AC_UF1000,1000_QL80_.jpg"
+18,Classical Mechanics,Herbert Goldstein,Physics,"https://m.media-amazon.com/images/I/718n4on-z6L._AC_UF1000,1000_QL80_.jpg"
+19,Introduction to Electrodynamics,David J. Griffiths,Physics,"https://m.media-amazon.com/images/I/91WBHKHzK-L._AC_UF1000,1000_QL80_.jpg"
+20,Thermodynamics: An Engineering Approach,Yunus A. Çengel and Michael A. Boles,Physics,"https://images-eu.ssl-images-amazon.com/images/I/71zhklpIiTL._AC_UL600_SR600,600_.jpg"
+21,Introduction to Quantum Mechanics,David J. Griffiths,Physics,"https://m.media-amazon.com/images/I/51fCsJ8a4BL._AC_UF1000,1000_QL80_.jpg"
+22,Fluid Mechanics,Frank M. White,Physics,"https://m.media-amazon.com/images/I/81g9fsDxD1L._AC_UF1000,1000_QL80_.jpg"
+23,A Textbook of Engineering Physics,M. N. Avadhanulu and P. G. Kshirsagar,Physics,https://m.media-amazon.com/images/I/51KX-Fq68AL._AC_SY200_QL15_.jpg
+24,Engineering Physics,Gaur and Gupta,Physics,"https://m.media-amazon.com/images/I/51hQx7ERoZL._AC_UF1000,1000_QL80_.jpg"
+25,Mechanics and Thermodynamics,S.B. Rajasekaran and G. Sankara Subramanian,Physics,https://m.media-amazon.com/images/I/51t7mGdpdlL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREEANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
+26,Electromagnetic Theory,Sadiku,Physics,"https://images-eu.ssl-images-amazon.com/images/I/71aj2wQgW4L._AC_UL210_SR210,210_.jpg"
+27,Heat and Mass Transfe,R. K. Rajput,Physics,"https://m.media-amazon.com/images/I/510HAfsHZAL._AC_UF1000,1000_QL80_.jpg"
+28,Modern Physics,R. Murugeshan,Physics,https://m.media-amazon.com/images/I/51rUGfouPwL.jpg
+29,Optics,Ajoy Ghatak,Physics,"https://m.media-amazon.com/images/I/71jWSkIKz+L._AC_UF1000,1000_QL80_.jpg"
+30,Solid State Physics,S. O. Pillai,Physics,"https://m.media-amazon.com/images/I/61kpyFakm0L._AC_UF1000,1000_QL80_.jpg"
+31,Nuclear Physics,D. C. Tayal,Physics,"https://images-eu.ssl-images-amazon.com/images/I/81c8W8JkJ9L._AC_UL210_SR210,210_.jpg"
+32,Wave Mechanics and Wave Statistics,G. S. Agarwal and S. P. Malik,Physics,https://pragatiprakashan.in/media/catalog/product/cache/1/image/270x405/9df78eab33525d08d6e5fb8d27136e95/m/e/mechancis-and-wave-motion-jp-agarwal.jpg
+33,Engineering Mechanics,S. Timoshenko and D. H. Young,Physics,"https://m.media-amazon.com/images/I/616TU0OhrpL._AC_UF1000,1000_QL80_.jpg"
+34,Electrical Technology,B. L. Theraja,Physics,"https://m.media-amazon.com/images/I/61xMbfTKsZL._AC_UF1000,1000_QL80_.jpg"
+35,Materials Science and Engineering,V. Raghavan,Physics,https://pictures.abebooks.com/isbn/9788120324558-us.jpg
+36,Control Systems Engineering,Norman S. Nise,Physics,"https://m.media-amazon.com/images/I/71ohwJOrzTL._AC_UF1000,1000_QL80_.jpg"
+37,Digital Electronics,R. P. Jain,Physics,"https://m.media-amazon.com/images/I/81ZT02CTePL._AC_UF1000,1000_QL80_.jpg"
+38,Strength of Materials,R. K. Bansal,Physics,"https://m.media-amazon.com/images/I/81Zq+uu0xML._AC_UF1000,1000_QL80_.jpg"
+39,Power System Engineering, I. J. Nagrath and D. P. Kothari,Physics,"https://m.media-amazon.com/images/I/51qHz2586gL._AC_UF1000,1000_QL80_.jpg"
+40,Environmental Engineering,S. K. Garg,Physics,"https://m.media-amazon.com/images/I/61HHgW-pdDL._AC_UF1000,1000_QL80_.jpg"
+41,Machine Design,R. S. Khurmi,Physics,https://bc-img.s3.ap-south-1.amazonaws.com/images/cover/bc/9788121925372_16636688620.jpeg
+42,Digital Signal Processing,Proakis and Manolakis,Physics,"https://m.media-amazon.com/images/I/61bgwtKCpHL._AC_UF1000,1000_QL80_.jpg"
+43,Advanced Engineering Mathematics,Michael Greenberg ,Mathematics,https://5.imimg.com/data5/SELLER/Default/2023/8/338130596/AM/DW/MD/121408955/pic-1.jpg
+44,Numerical Methods for Engineers,Steven C. Chapra and Raymond P. Canale,Mathematics,https://img.dokumen.tips/doc/image/55cf9989550346d0339dddaf/numerical-methods-for-engineers-6th-ed-s-chapra-r-canale-mcgraw-hill.jpg
+45,Probability and Statistics for Engineers and Scientists ,Ronald E. Walpole,Mathematics,"https://m.media-amazon.com/images/I/61cpY2rSudL._AC_UF1000,1000_QL80_.jpg"
+46,Physical Chemistry,Peter Atkins and Julio de Paula,Chemistry,"https://m.media-amazon.com/images/I/61ABS6cnyhL._AC_UF1000,1000_QL80_.jpg"
+47,Chemistry: The Central Science,"Theodore L. Brown, H. Eugene LeMay, and Bruce E. Bursten",Chemistry,https://m.media-amazon.com/images/I/417gdgJKCKL.jpg
+48,Organic Chemistry,Morrison and Boyd,Chemistry,"https://m.media-amazon.com/images/I/51FsLG2UeVL._AC_UF1000,1000_QL80_.jpg"
+49,Inorganic Chemistry,J.D. Lee,Chemistry,"https://m.media-amazon.com/images/I/81A1d1AQd1L._AC_UF1000,1000_QL80_.jpg"
+50,Principles of Physical Chemistry,"B.R. Puri, L.R. Sharma, and Madan S. Pathania ",Chemistry,"https://m.media-amazon.com/images/I/61s0AFaJFXS._AC_UF1000,1000_QL80_.jpg"
+51,A Textbook of Engineering Chemistry, Shashi Chawla,Chemistry,"https://m.media-amazon.com/images/I/61FengiNWLL._AC_UF1000,1000_QL80_.jpg"
+52,Engineering Chemistry,Jain and Jain,Chemistry,"https://m.media-amazon.com/images/I/61tATGpSnTL._AC_UF1000,1000_QL80_.jpg"
+53,Environmental Chemistry,Stanley E. Manahan,Chemistry,"https://m.media-amazon.com/images/I/91j8+xuFUbL._AC_UF350,350_QL50_.jpg"
+54,Chemical Engineering Thermodynamics,"J.M. Smith, Hendrick C. Van Ness, and Michael Abbott",Chemistry,"https://m.media-amazon.com/images/I/91-gWHW-39S._AC_UF1000,1000_QL80_.jpg"
+55,Engineering Chemistry,B. K. Sharma,Chemistry,"https://m.media-amazon.com/images/I/41wxxsqghiL._AC_UF1000,1000_QL80_.jpg"
+56,Chemical Principles,Peter Atkins and Loretta Jones,Chemistry,"https://m.media-amazon.com/images/I/91yqPhGhznL._AC_UF1000,1000_QL80_.jpg"
+57,Organic Chemistry,Solomons and Fryhle,Chemistry,"https://m.media-amazon.com/images/I/71SaK4HhNdL._AC_UF1000,1000_QL80_.jpg"
+58,Inorganic Chemistry,Gary L. Miessler and Paul J. Fischer,Chemistry,"https://m.media-amazon.com/images/I/81xj+R3q+SL._AC_UF1000,1000_QL80_.jpg"
+59,Physical Chemistry,Ira N. Levine,Chemistry,"https://m.media-amazon.com/images/I/61o8-Jc2pFL._AC_UF1000,1000_QL80_.jpg"
+60,Engineering Chemistry, P.C. Jain and Monica Jain ,Chemistry,"https://m.media-amazon.com/images/I/61T9TDOMmSL._AC_UF1000,1000_QL80_.jpg"
+61,Textbook of Physical Chemistry,K. L. Kapoor ,Chemistry,"https://m.media-amazon.com/images/I/71mJ+8tjHsL._AC_UF1000,1000_QL80_.jpg"
+62,A Textbook of Environmental Chemistry and Pollution Control,S.S. Dara,Chemistry,"https://m.media-amazon.com/images/I/411jKQIxcgL._AC_UF1000,1000_QL80_.jpg"
+63,Principles of Environmental Chemistry,James E. Girard and James Girard,Chemistry,"https://m.media-amazon.com/images/I/613+MiJXAuL._AC_UF1000,1000_QL80_.jpg"
+64,Chemical Kinetics and Catalysis,Richard J. Kokes,Chemistry,https://media.wiley.com/product_data/coverImage300/70/04712419/0471241970.jpg
+65,Chemistry for Engineers,Dr. M. R. Riazi,Chemistry,https://m.media-amazon.com/images/I/51TMX4GHH3L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
+66,C Programming Absolute Beginner's Guide,Perry and Miller,C,https://m.media-amazon.com/images/I/412JvwgTRyL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA691%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
+67,C Programming for the Absolute Beginner,"Vine, Vine, and Vine",C,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348251191i/2157215.jpg
+68,C Programming for Scientists and Engineers with Applications , Rosner and Lippman,C,https://archive.org/services/img/c_programmining_for_scientists_es_engineers/full/pct:200/0/default.jpg
+69,C Programming: A Modern Approach,K. N. King,C,"https://m.media-amazon.com/images/I/71YNXYuwPGL._AC_UF1000,1000_QL80_.jpg"
+70,Let Us C ,Yashavant Kanetkar,C,"https://m.media-amazon.com/images/I/81ZPcK6HpuL._AC_UF1000,1000_QL80_.jpg"
+71,C++ Primer,"Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo",CPP,"https://m.media-amazon.com/images/I/71vil4NdEPL._AC_UF1000,1000_QL80_.jpg"
+72,Accelerated C++,Andrew Koenig and Barbara E. Moo,CPP,"https://m.media-amazon.com/images/I/91cptJ72Z8L._AC_UF1000,1000_QL80_.jpg"
+73,Effective C++: 55 Specific Ways to Improve Your Programs and Designs,Scott Meyers,CPP,https://rukminim2.flixcart.com/image/850/1000/kjiwfbk0-0/book/u/w/b/effective-c-original-imafz2yutykpuyaz.jpeg?q=20
+74,The C++ Programming Language,Bjarne Stroustrup,CPP,"https://m.media-amazon.com/images/I/51E-UF9BzDL._AC_UF1000,1000_QL80_.jpg"
+75,Programming: Principles and Practice Using C++,Bjarne Stroustrup,CPP,https://cdn01.sapnaonline.com/bk_images/721/9780321543721.jpg
+76,Thinking in C++,Bruce Eckel ,CPP,"https://m.media-amazon.com/images/I/91Ln8mm52fL._AC_UF1000,1000_QL80_.jpg"
+77,C++ How to Program,Paul J. Deitel and Harvey Deitel,CPP,"https://m.media-amazon.com/images/I/51vjUIGh2IL._AC_UF1000,1000_QL80_.jpg"
+78,Python Crash Course,Eric Matthes,Python,https://www.booksfree.org/wp-content/uploads/2022/06/Python-Crash-Course-by-Eric-Matthes-pdf-free-download.png
+79,Automate the Boring Stuff with Python,Al Sweigart,Python,"https://m.media-amazon.com/images/I/915d+qI9NAL._AC_UF1000,1000_QL80_.jpg"
+80,Python for Data Analysis,Wes McKinney,Python,"https://m.media-amazon.com/images/I/912I2EtdCbL._AC_UF1000,1000_QL80_.jpg"
+81,Learn Python the Hard Way,Zed A. Shaw,Python,"https://m.media-amazon.com/images/I/81UU5A2VLsL._AC_UF1000,1000_QL80_.jpg"
+82,Python Cookbook,David Beazley and Brian K. Jones,Python,"https://m.media-amazon.com/images/I/91TnJtD9RfL._AC_UF1000,1000_QL80_.jpg"
+83,Python for DevOps,"Noah Gift, Kennedy Behrman, and Alfredo Deza",Python,https://m.media-amazon.com/images/I/51IP0+XTTLL.jpg
+84,Python Web Scraping,Ryan Mitchell ,Python,"https://m.media-amazon.com/images/I/71HoXp1ZbmL._AC_UF1000,1000_QL80_.jpg"
+85,Python GUI Programming with Tkinter,Alan D. Moore,Python,"https://m.media-amazon.com/images/I/71h0EgO2rML._AC_UF1000,1000_QL80_.jpg"
+86,Django for Beginners,William S. Vincent,Python,"https://m.media-amazon.com/images/I/51pHCXmUyCL._AC_UF1000,1000_QL80_.jpg"
+87,Flask Web Development, Miguel Grinberg,Python,"https://m.media-amazon.com/images/I/91jCDEyM3fL._AC_UF1000,1000_QL80_.jpg"
+88,Head First Java,Kathy Sierra and Bert Bates ,Java,"https://m.media-amazon.com/images/I/819TQgUGNsL._AC_UF1000,1000_QL80_.jpg"
+89,Java: The Complete Reference,Herbert Schildt,Java,"https://m.media-amazon.com/images/I/51VOC0wAkJL._AC_UF1000,1000_QL80_.jpg"
+90,Java Programming for Beginners,Mark Lassoff,Java,https://m.media-amazon.com/images/I/41c-%2BhptosL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOUR%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA33%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
+91,Java Performance: The Definitive Guide,Scott Oaks,Java,"https://m.media-amazon.com/images/I/914nLXL0+rL._AC_UF1000,1000_QL80_.jpg"
+92,Spring in Action,Craig Walls,Java,"https://m.media-amazon.com/images/I/8198pKDkWkL._AC_UF1000,1000_QL80_.jpg"
+93,Hibernate in Action,Christian Bauer and Gavin King,Java,"https://m.media-amazon.com/images/I/41+vnSM6vuL._AC_UF1000,1000_QL80_.jpg"
+94,Introduction to Algorithms,"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein",Data Structures and Algorithms,"https://m.media-amazon.com/images/I/61O6K0yPmzL._AC_UF1000,1000_QL80_.jpg"
+95,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,Data Structures and Algorithms,"https://m.media-amazon.com/images/I/61CVP-MfUoL._AC_UF1000,1000_QL80_.jpg"
+96,Algorithms ,Robert Sedgewick and Kevin Wayne,Data Structures and Algorithms,"https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+97,Data Structures and Algorithm Analysis in C++,Mark A. Weiss,Data Structures and Algorithms,"https://m.media-amazon.com/images/I/81RB3sHo5-L._AC_UF1000,1000_QL80_.jpg"
+98,Data Structures and Algorithms in Python,"Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser",Data Structures and Algorithms,"https://m.media-amazon.com/images/I/71sMkUcfhQL._AC_UF1000,1000_QL80_.jpg"
+99,Introduction to the Design and Analysis of Algorithms,Anany Levitin,Data Structures and Algorithms,https://m.media-amazon.com/images/I/61wQwqeb7FL.jpg
+100,Advanced Data Structures,Peter Brass,Data Structures and Algorithms,https://m.media-amazon.com/images/I/41zGITeJ5kL.jpg
+101,The Art of Computer Programming,Donald E. Knuth,Data Structures and Algorithms,"https://m.media-amazon.com/images/I/71el4awbJoL._AC_UF1000,1000_QL80_.jpg"
+102,Competitive Programming,Steven Halim and Felix Halim,Data Structures and Algorithms,"https://m.media-amazon.com/images/I/41hy1ickDpL._AC_UF1000,1000_QL80_.jpg"
+103,Dynamic Programming for Coding Interviews,Meenakshi and Kamal Rawat,Data Structures and Algorithms,"https://images-eu.ssl-images-amazon.com/images/I/81io-ZZJjEL._AC_UL600_SR600,600_.jpg"
+104,Algorithms for Interviews,"Adnan Aziz, Amit Prakash, and Tsung-Hsien Lee",Data Structures and Algorithms,https://m.media-amazon.com/images/I/51EesB6D1oL._SS63_.jpg
+105,HTML and CSS: Design and Build Websites,Jon Duckett,Web Development,https://m.media-amazon.com/images/I/31u%2BYxJiNmL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA4%252C287%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
+106,JavaScript and jQuery: Interactive Front-End Web Development,Jon Duckett,Web Development,"https://m.media-amazon.com/images/I/61u7pEHMZUL._AC_UF1000,1000_QL80_.jpg"
+107,Eloquent JavaScript,Marijn Haverbeke,Web Development,"https://m.media-amazon.com/images/I/91asIC1fRwL._AC_UF1000,1000_QL80_.jpg"
+108,You Don't Know JS (book series),Kyle Simpson,Web Development,"https://m.media-amazon.com/images/I/71mKvD89oEL._AC_UF1000,1000_QL80_.jpg"
+109,Node.js Design Patterns,Mario Casciaro,Web Development,https://content.packt.com/B15729/cover_image_small.jpg
+110,Express.js Guide: The Comprehensive Book on Express.js,Azat Mardan,Web Development,"https://m.media-amazon.com/images/I/713elKMGFkL._AC_UF1000,1000_QL80_.jpg"
+111,Ruby on Rails Tutorial,Michael Hartl ,Web Development,https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_7th_edition/images/cover-web.png
+112,Fullstack React: The Complete Guide to ReactJS and Friends,"Anthony Accomazzo, Nate Murray, Ari Lerner, and Clay Allsopp",Web Development,https://m.media-amazon.com/images/I/51CMUOgy8HL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOUR%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA65%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
+113,MEAN Web Development,Amos Q. Haviv,Web Development,"https://m.media-amazon.com/images/I/618tXRseJTL._AC_UF1000,1000_QL80_.jpg"
+114,"MERN Quick Start Guide: Build web applications with MongoDB, Express.js, React, and Node",Sanjay Mishra and Swathi Prasad ,Web Development,"https://m.media-amazon.com/images/I/71ehfIjcrhL._AC_UF1000,1000_QL80_.jpg"
+115,The Pragmatic Programmer: Your Journey to Mastery,Andrew Hunt and David Thomas,Web Development,https://m.media-amazon.com/images/I/518FqJvR9aL.jpg
+116,Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,Web Development,https://m.media-amazon.com/images/I/41SH-SvWPxL.jpg
+117,Design for Hackers: Reverse Engineering Beauty,David Kadavy,Web Development,"https://m.media-amazon.com/images/I/81DCn4QYM-L._AC_UF1000,1000_QL80_.jpg"
+118,HTTP: The Definitive Guide,David Gourley and Brian Totty,Web Development,"https://m.media-amazon.com/images/I/91CZ5e4UeHL._AC_UF1000,1000_QL80_.jpg"
+119,Operating System Concepts," Abraham Silberschatz, Peter B. Galvin, and Greg Gagne",Operating Systems,"https://m.media-amazon.com/images/I/81SwKCia7VL._AC_UF1000,1000_QL80_.jpg"
+120,Modern Operating Systems,Andrew S. Tanenbaum,Operating Systems,"https://m.media-amazon.com/images/I/71nBWJXx5cL._AC_UF1000,1000_QL80_.jpg"
+121,Operating Systems: Internals and Design Principles,William Stallings,Operating Systems,"https://m.media-amazon.com/images/I/41dBK7WM1ML._AC_UF1000,1000_QL80_.jpg"
+122,Advanced Programming in the UNIX Environment,W. Richard Stevens,Operating Systems,"https://m.media-amazon.com/images/I/51KV3UwwpjL._AC_UF1000,1000_QL80_.jpg"
+123,Linux Kernel Development,Robert Love,Operating Systems,"https://m.media-amazon.com/images/I/71pBk81gI0L._AC_UF1000,1000_QL80_.jpg"
+124,Distributed Systems: Concepts and Design,"George Coulouris, Jean Dollimore, Tim Kindberg, and Gordon Blair ",Operating Systems,"https://m.media-amazon.com/images/I/61VMFGTXDxL._AC_UF1000,1000_QL80_.jpg"
+125,"Cloud Computing: Concepts, Technology & Architecture","Thomas Erl, Ricardo Puttini, and Zaigham Mahmood",Operating Systems,"https://m.media-amazon.com/images/I/81QoSy74EFL._AC_UF1000,1000_QL80_.jpg"
+126,Operating Systems for the Cloud ,Michael J. Kozuch and M. Frans Kaashoek,Operating Systems,"https://m.media-amazon.com/images/I/81QoSy74EFL._AC_UF1000,1000_QL80_.jpg"
+127,Real-Time Systems,Jane W. S. Liu,Operating Systems,"https://m.media-amazon.com/images/I/41EK9AM4XDL._AC_UF1000,1000_QL80_.jpg"
+128,Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers,Jonathan Valvano,Operating Systems,https://m.media-amazon.com/images/I/51VEOttyhgL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA57%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
+129,Database System Concepts,"Abraham Silberschatz, Henry F. Korth",Database Management Systems (DBMS),"https://m.media-amazon.com/images/I/81z56bWV43L._AC_UF1000,1000_QL80_.jpg"
+130,Fundamentals of Database Systems,Ramez Elmasri and Shamkant B. Navathe,Database Management Systems (DBMS),"https://m.media-amazon.com/images/I/51oY2cPg1-L._AC_UF1000,1000_QL80_.jpg"
+131,Database Management Systems,Raghu Ramakrishnan and Johannes Gehrke,Database Management Systems (DBMS),"https://m.media-amazon.com/images/I/71h6JzXwI3L._AC_UF1000,1000_QL80_.jpg"
+132,SQL Performance Explained,Markus Winand,Database Management Systems (DBMS),"https://m.media-amazon.com/images/I/81mZJiObMSL._AC_UF350,350_QL50_.jpg"
+133,Learning SQL,Alan Beaulieu,Database Management Systems (DBMS),"https://m.media-amazon.com/images/I/81xkjj+FAfL._AC_UF1000,1000_QL80_.jpg"
+134,High-Performance MySQL,"Baron Schwartz, Peter Zaitsev, and Vadim Tkachenko",Database Management Systems (DBMS),"https://m.media-amazon.com/images/I/91QQw8ekOJL._AC_UF1000,1000_QL80_.jpg"
+135,Data Warehousing,Paulraj Ponniah,Database Management Systems (DBMS),"https://m.media-amazon.com/images/I/41lBrZ21cLL._AC_UF1000,1000_QL80_.jpg"
+136,Graph Databases,"Ian Robinson, Jim Webber, and Emil Eifrem",Database Management Systems (DBMS),https://rukminim2.flixcart.com/image/850/1000/kqjtd3k0/book/x/8/i/graph-databases-2e-original-imag4jennnmwwtvn.jpeg?q=90
+137,MongoDB: The Definitive Guide,Kristina Chodorow and Michael Dirolf,Database Management Systems (DBMS),https://m.media-amazon.com/images/I/51n4OPvZiWL.jpg
+138,Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design ,Michael J. Hernandez,Database Management Systems (DBMS),https://m.media-amazon.com/images/I/51yNWUwdO-L.jpg
+139,"Database Systems: Design, Implementation, and Management",Carlos Coronel and Steven Morris ,Database Management Systems (DBMS),"https://m.media-amazon.com/images/I/51T8O0CU05L._AC_UF1000,1000_QL80_.jpg"
+140,Designing Data-Intensive Applications,Martin Kleppmann ,Database Management Systems (DBMS),"https://m.media-amazon.com/images/I/71YL95jVDpL._AC_UF1000,1000_QL80_.jpg"
+141,GATE General Aptitude (GKP),Many,GATE,https://www.gkpublications.com/wp-content/uploads/2023/05/81CvtgeM5FL.jpg
+142,GATE Tutor Series,Many,GATE,https://rukminim2.flixcart.com/image/850/1000/xif0q/regionalbooks/e/f/1/arihant-gate-tutor-2024-computer-science-information-technology-original-imagph7hynzdy2v2.jpeg?q=90
+143,Previous Years' GATE Question Papers,Many,GATE,"https://m.media-amazon.com/images/I/61sFlVajPvS._AC_UF1000,1000_QL80_.jpg"
+144,GATE 2022: Computer Science and IT Engineering (28 Years Solution),Many,GATE,"https://m.media-amazon.com/images/I/619ffDC2ZoL._AC_UF1000,1000_QL80_.jpg"
+145,NPTEL Video Lectures ,Many,GATE,https://freevideolectures.com/blog/wp-content/uploads/2010/11/logo_FINAL.jpg
+146,How to Prepare for Quantitative Aptitude for the CAT,Arun Sharma,CAT and GRE,"https://m.media-amazon.com/images/I/71IXiMK4FZL._AC_UF1000,1000_QL80_.jpg"
+147,How to Prepare for Quantitative Aptitude for the CAT,Arun Sharma,CAT and GRE,https://www.ajayonlinestall.com/wp-content/uploads/2022/07/9789355321626.jpg
+148,How to Prepare for Logical Reasoning for the CAT,Arun Sharma,CAT and GRE,"https://m.media-amazon.com/images/I/61C7ehlvSlL._AC_UF1000,1000_QL80_.jpg"
+149,How to Prepare for Verbal Ability and Reading Comprehension for the CAT,Arun Sharma and Meenakshi Upadhyay,CAT and GRE,"https://m.media-amazon.com/images/I/71DkLwcceZL._AC_UF1000,1000_QL80_.jpg"
+150,CAT 2023 - 29 Topic-wise & Year-wise Solved Papers ,Many,CAT and GRE,"https://images-eu.ssl-images-amazon.com/images/I/81rjRM7i3VL._AC_UL600_SR600,600_.jpg"
+151,Word Power Made Easy,Norman Lewis ,CAT and GRE,https://goyalpublisher.com/cdn/shop/products/WhatsAppImage2023-02-16at1.04.35PM.jpg?v=1692945682
+152,CAT Exam - Self Study Guide,Arihant Experts,CAT and GRE,https://d8it4huxumps7.cloudfront.net/uploads/images/649a7177a4239_mastering_the_verbal_ability_for_cat_by_ajay_singh.jpg
+153,Official IELTS Practice Materials,Cambridge English,IELTS,"https://m.media-amazon.com/images/I/71vG8dQJ2lL._AC_UF1000,1000_QL80_.jpg"
+154,Cambridge IELTS Series,Cambridge English,IELTS,https://www.cambridgeenglish.org/Images/the-official-cambridge-guide-to-ielts.jpg
+155,arget Band 7: IELTS Academic Module - How to Maximize Your Score,Cambridge English,IELTS,"https://images-eu.ssl-images-amazon.com/images/I/615+GN9UkkL._AC_UL210_SR210,210_.jpg"
+156,Barron's Essential Words for the IELTS ,Cambridge English,IELTS,"https://m.media-amazon.com/images/I/61uVOOU8vkL._AC_UF1000,1000_QL80_.jpg"
+157,Principles of Economics,N. Gregory Mankiw,Ecomoics,"https://m.media-amazon.com/images/I/81UPJjLHp8L._AC_UF1000,1000_QL80_.jpg"
+158,Microeconomics,Robert S. Pindyck and Daniel L. Rubinfeld,Ecomoics,"https://m.media-amazon.com/images/I/81bJOg+OJvL._AC_UF1000,1000_QL80_.jpg"
+159,"Microeconomics: Behavior, Institutions, and Evolution",Samuel Bowles and Herbert Gintis,Ecomoics,"https://m.media-amazon.com/images/I/81z89LVDSmL._AC_UF1000,1000_QL80_.jpg"
+160,Macroeconomics,N. Gregory Mankiw,Ecomoics,"https://m.media-amazon.com/images/I/91qJqNvm4aL._AC_UF1000,1000_QL80_.jpg"
+161,"Macroeconomics: Institutions, Instability, and the Financial System",Wendy Carlin and David Soskice,Ecomoics,"https://m.media-amazon.com/images/I/71Q8O0g937L._AC_UF1000,1000_QL80_.jpg"
+162,The Wealth of Nations,Adam Smith,Ecomoics,"https://m.media-amazon.com/images/I/71jTrmMzvkL._AC_UF1000,1000_QL80_.jpg"
+163,A Short History of Economic Thought,Bo Sandelin,Ecomoics,"https://m.media-amazon.com/images/I/61nSERswDxL._AC_UF1000,1000_QL80_.jpg"
+164,Development Economics,Debraj Ray,Ecomoics,"https://m.media-amazon.com/images/I/91SWccJ7XPL._AC_UF1000,1000_QL80_.jpg"
+165,Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty,Abhijit V. Banerjee and Esther Duflo,Ecomoics,"https://m.media-amazon.com/images/I/71xYL2Mz+xL._AC_UF1000,1000_QL80_.jpg"
+166,"Thinking, Fast and Slow",Daniel Kahneman,Ecomoics,https://m.media-amazon.com/images/I/419m9DhkQ2L.jpg
+167,Advanced Macroeconomics,David Romer,Ecomoics,"https://m.media-amazon.com/images/I/71MNboVgA5L._AC_UF1000,1000_QL80_.jpg"
+168,Game Theory for Applied Economists,Robert Gibbons,Ecomoics,"https://m.media-amazon.com/images/I/51mNQE2xq7L._AC_UF1000,1000_QL80_.jpg"
+169,Principles of Management,P.C. Tripathi and P.N. Reddy,Business & Management,"https://m.media-amazon.com/images/I/71I4QOyl7uL._AC_UF1000,1000_QL80_.jpg"
+170,Marketing Managemen,Philip Kotler and Kevin Lane Keller,Business & Management,"https://m.media-amazon.com/images/I/614PgvZxioL._AC_UF1000,1000_QL80_.jpg"
+171,Financial Management,I.M. Pandey,Business & Management,"https://m.media-amazon.com/images/I/71BzABlIzoL._AC_UF1000,1000_QL80_.jpg"
+172,Human Resource Management,Gary Dessler,Business & Management,https://m.media-amazon.com/images/I/511PZWc+CHL.jpg
+173,Business Communication: Building Critical Skills,Kitty O. Locker and Stephen Kyo Kaczmarek,Business & Management,"https://m.media-amazon.com/images/I/51WIfIhm4gL._AC_UF1000,1000_QL80_.jpg"
+174,Operations Management,Jay Heizer and Barry Render,Business & Management,"https://m.media-amazon.com/images/I/81RYha2jwgL._AC_UF1000,1000_QL80_.jpg"
+175,Business Ethics: Concepts and Cases,Manuel G. Velasquez,Business & Management,"https://m.media-amazon.com/images/I/91LnseiQ3-L._AC_UF1000,1000_QL80_.jpg"
+176,Financial Accounting,T.S. Reddy and A. Murthy,Business & Management,https://mybooksfactory.com/wp-content/uploads/2020/09/15_financial_accounting_1n2_s-1-1.jpg
+177,Business Research Methods,Donald R. Cooper and Pamela S. Schindler,Business & Management,"https://m.media-amazon.com/images/I/51buHXP5wqL._AC_UF1000,1000_QL80_.jpg"
+178,Organizational Behavior,Stephen P. Robbins and Timothy A. Judge,Business & Management,"https://m.media-amazon.com/images/I/51ueyVBKc0L._AC_UF1000,1000_QL80_.jpg"
+179,The 7 Habits of Highly Effective People,Stephen R. Covey,Self Growth and Improvement,"https://m.media-amazon.com/images/I/71rmHeQeuRL._AC_UF1000,1000_QL80_.jpg"
+180,Awaken the Giant Within,Tony Robbins,Self Growth and Improvement,https://rukminim2.flixcart.com/image/850/1000/kiew3gw0-0/book/n/p/b/awaken-the-giant-within-original-imafy7t7ejpfuhxm.jpeg?q=20
+181,Mindset: The New Psychology of Success,Carol S. Dweck,Self Growth and Improvement,https://m.media-amazon.com/images/I/41vS70Qo3rL.jpg
+182,Atomic Habits,James Clear,Self Growth and Improvement,https://m.media-amazon.com/images/I/51gJpbOQpHL.jpg
+183,The Power of Now,Eckhart Tolle,Self Growth and Improvement,"https://m.media-amazon.com/images/I/714FbKtXS+L._AC_UF1000,1000_QL80_.jpg"
+184,Daring Greatly,Brené Brown,Self Growth and Improvement,"https://images-eu.ssl-images-amazon.com/images/I/81FxzvzY95L._AC_UL200_SR200,200_.jpg"
+185,Grit: The Power of Passion and Perseverance,Angela Duckworth,Self Growth and Improvement,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632024090i/27213329.jpg
+186,The Subtle Art of Not Giving a F*ck,Mark Manson,Self Growth and Improvement,"https://m.media-amazon.com/images/I/71t4GuxLCuL._AC_UF1000,1000_QL80_.jpg"
+187,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,Self Growth and Improvement,https://i0.wp.com/fieldgradeleader.themilitaryleader.com/wp-content/uploads/2020/01/bookreviewDrive600x900.jpg?fit=600%2C900&ssl=1
+188,Start with Why,Simon Sinek,Self Growth and Improvement,https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/54655AE35C804DC4959F4E5C0D322AD9/204642484_9999_54655AE35C804DC4959F4E5C0D322AD9.jpg
+189,The Miracle Morning,Hal Elrod,Self Growth and Improvement,https://m.media-amazon.com/images/I/51AIz1GrKwL._SL500_.jpg
+190,Emotional Intelligence,Daniel Goleman,Self Growth and Improvement,"https://m.media-amazon.com/images/I/51Zs8AQci2L._AC_UF1000,1000_QL80_.jpg"
+191,Man's Search for Meaning,Viktor E. Frankl,Self Growth and Improvement,https://5.imimg.com/data5/SELLER/Default/2023/5/304546611/UW/NU/PI/127191396/man-search-for-meaning-book.jpeg
+192,You Are a Badass,Jen Sincero,Self Growth and Improvement,"https://m.media-amazon.com/images/I/71SUujKRkdL._AC_UF1000,1000_QL80_.jpg"
+193,The Four Agreements,Don Miguel Ruiz,Self Growth and Improvement,"https://m.media-amazon.com/images/I/81hHy5XrdKL._AC_UF1000,1000_QL80_.jpg"
+194,The Compound Effect,Darren Hardy,Self Growth and Improvement,"https://m.media-amazon.com/images/I/610QDSRlLYL._AC_UF1000,1000_QL80_.jpg"
+195,The Art of Happiness,Dalai Lama and Howard Cutler,Self Growth and Improvement,https://cdn.kobo.com/book-images/152164a2-3b34-408b-b2c3-0608281d32f7/1200/1200/False/the-art-of-happiness-10th-anniversary-edition-a-handbook-for-living.jpg
+196,The Happiness Advantage,Shawn Achor,Self Growth and Improvement,"https://m.media-amazon.com/images/I/71cmPEvfueL._AC_UF1000,1000_QL80_.jpg"
+197,The 5 AM Club,Robin Sharma,Self Growth and Improvement,"https://m.media-amazon.com/images/I/71zytzrg6lL._AC_UF1000,1000_QL80_.jpg"
+198,The Code of the Extraordinary Mind,Vishen Lakhiani,Self Growth and Improvement,"https://m.media-amazon.com/images/I/81U79yHMBOL._AC_UF1000,1000_QL80_.jpg"
+199,The Obstacle Is the Way,Ryan Holiday,Self Growth and Improvement,"https://images-eu.ssl-images-amazon.com/images/I/71RFL-jdXGL._AC_UL210_SR210,210_.jpg"
+200,The Magic of Thinking Big,David J. Schwartz,Self Growth and Improvement,"https://m.media-amazon.com/images/I/81UZJqFG7VL._AC_UF1000,1000_QL80_.jpg"
+201,Fundamentals of Electric Circuits,Matthew N.O.Sadiku,Electric circuits,https://cdn11.bigcommerce.com/s-phtso/images/stencil/2048x2048/products/5196/6214/9781260477672__60099.1584332508.jpg?c=2
+202,Electrical Power System,C.L.Wadhwa,Electric circuits,https://logicwork.in/wp-content/uploads/2022/07/Electrical-Power-Systems-by-CL-Wadhwa-737x1024.jpeg
+203,Electronic Devices and Circuit Theory,Louis Nashelsky,Electric circuits,https://pictures.abebooks.com/isbn/9780131189058-us.jpg
+204,Network Analysis,Mac Van Valenburg,Electric circuits,https://logicwork.in/wp-content/uploads/2021/05/network-analysis-and-synthesis-book-293x399.jpg
+205,Fundamentals of Digital Circuits,A.Anand Kumar,Electric circuits,https://th.bing.com/th/id/OIP.2LBkQL0FGacOmTn6DaoQcAHaHa?pid=ImgDet&rs=1
+206,Solid State Electronics Devices,Ben G.Streetman,Electric circuits,https://th.bing.com/th/id/OIP.TZuredvpDj0vcWCci3YvSQHaJj?pid=ImgDet&rs=1
+207,Fundamentals of Micreelectronics,Behzad Razavi,Electric circuits,"https://assets.chegg.com/rqm/image/upload/f_auto,q_auto/covers/9781119833864.jpg"
+208,Professional English,Raman and Meenakshi,English,https://th.bing.com/th/id/OIP.k9oRS44CsrimIZvgLBmnnQAAAA?pid=ImgDet&rs=1
+209,Technical English,Nick and Alison,English,https://th.bing.com/th/id/R.01bf12e5a78d037b7b4fb4089e3ffe66?rik=Hu%2bIYr0%2bXRYUKw&riu=http%3a%2f%2fbilder.buecher.de%2fprodukte%2f12%2f12772%2f12772976z.jpg&ehk=fzeNjRFF5aL3zDRNbVWknEyVlBR14ZuQADL8iZqEnAU%3d&risl=&pid=ImgRaw&r=0
+210,Effective Technical Communication,Mc Graw Hill,English,https://4.bp.blogspot.com/-cBZfrhLwltA/Ve6cUbiNRVI/AAAAAAAAC04/uW8KyEPzX24/s1600/Technical%2BEnglish%2B1A_001.jpg
+211,Asking The Right Question,M.Neil Browne,English,https://th.bing.com/th/id/R.26a80cfaccef06f2fa2a51a8574fc82b?rik=xRzOl5G%2fpP1IBw&riu=http%3a%2f%2fecx.images-amazon.com%2fimages%2fI%2f51mlcZQlvSL._SY344_BO1%2c204%2c203%2c200_.jpg&ehk=h2S7R9KRhG6J0%2bnpHoUrAV3EJl78qm8EmeefGu44sg4%3d&risl=&pid=ImgRaw&r=0
+212,Getting Things Done:The Art of Stress-Free Productivity,David Allen,English,https://th.bing.com/th/id/R.dc817bb9de4fcd620702aac82fcfce21?rik=EnZbEyKHpwKBRg&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9780143126560_p0_v2_s1200x630.jpg&ehk=jvj7O85RqDmgSTx7Cz6zDzbmwk9PubYmIeIeb7mfDNU%3d&risl=&pid=ImgRaw&r=0
+213,The One Minute Manager,Kenneth and Spencer,English,https://media.shortform.com/covers/png/the-one-minute-manager-cover@8x.png
+214,The Definitive Book Of Body Language ,Barabar and Allan,English,https://images.thenile.io/r1000/9780553804720.jpg
+215,How To Succeed At Interview,Rob Yeuang,English,https://img1.od-cdn.com/ImageType-100/1531-1/%7B306A0E52-A554-4040-BE5D-44AEB87714EF%7DImg100.jpg
+216,Basic Mechanical Engineering,Basant Agrawal,Mechanical Engineering,https://m.media-amazon.com/images/I/51SQ9Lu+KJL.jpg
+217,Electrical and Mechanical Engineering,David Baker,Mechanical Engineering,"https://m.media-amazon.com/images/I/81I-gbWSfmL._AC_UF1000,1000_QL80_.jpg"
+218,Newnes Mechanical Engineer's Pocket Book,Roger and Tony,Mechanical Engineering,https://m.media-amazon.com/images/I/51wK35AWqcL._SY445_SX342_.jpg
+219,A History Of Mechanical Engineering,Zhang and JIANMING,Mechanical Engineering,https://m.media-amazon.com/images/I/41P5GqwnNrL.jpg
+220,Basic Mechanical Engineering,Mohan Sen,Mechanical Engineering,"https://m.media-amazon.com/images/I/51CtQnVuVLL._AC_UF1000,1000_QL80_.jpg"
+221,Mechanical Engineering,Edward H.Smith,Mechanical Engineering,"https://m.media-amazon.com/images/I/71Tkq61LGaL._AC_UF1000,1000_QL80_.jpg"
+222,Fundamental of Aerospace Engineering,Manuel Soler,Aerospace Engineering,"https://m.media-amazon.com/images/I/61M1f-n6NML._AC_UF1000,1000_QL80_.jpg"
+223,Fundamental of Aerospace Engineering,Francisco,Aerospace Engineering,"https://m.media-amazon.com/images/I/71bfMV+nx0L._AC_UF1000,1000_QL80_.jpg"
+224,Aerospace Engineering on the Back of an Envelope,Irwin E. Alber,Aerospace Engineering,"https://m.media-amazon.com/images/I/61WnShmXBvL._AC_UF1000,1000_QL80_.jpg"
+225,Systems Engineering for the aerospace,Richard Sheng,Aerospace Engineering,https://m.media-amazon.com/images/I/71hGO0BoX5L._SY342_.jpg
+226,Introduction to Aerospace Engineering,Stephen Cordo,Aerospace Engineering,https://m.media-amazon.com/images/I/71b2k87jnIL._SY342_.jpg
+227,Aerodynamics,Theodore Von Karman,Aerospace Engineering,"https://m.media-amazon.com/images/I/71U73Oco1RL._AC_UF1000,1000_QL80_.jpg"
+228,Advanced Design Problems in Aerospace Engineering,Angelo Miele,Aerospace Engineering,https://m.media-amazon.com/images/I/41+mJX-GMTL.jpg
+229,Introduction to Space Dynamics,William Tyrrell Thomson,Aerospace Engineering,"https://m.media-amazon.com/images/I/617t59RRXsL._AC_UF1000,1000_QL80_.jpg"
+230,Orbital Mechanics,Howard D.Curtis,Aerospace Engineering,https://m.media-amazon.com/images/I/51A-q6ZKQFL._SX342_SY445_.jpg
+231,Bad Blood:Secrets and Lies in a Silicon Valley,Carreyrou,Bioengineering,https://m.media-amazon.com/images/I/41nVqp7kkJL._SY445_SX342_.jpg
+232,Deep Medicine,"Topol MD,Eric",Bioengineering,https://m.media-amazon.com/images/I/41FXNAmbF8L._SY445_SX342_.jpg
+233,The Genesis Machine,"Webb, Amy",Bioengineering,https://m.media-amazon.com/images/I/41BgR1-vO7L._SY445_SX342_.jpg
+234,Biodesign,"Yock,Paul",Bioengineering,https://m.media-amazon.com/images/I/51us1otqkkL._SX342_SY445_.jpg
+235,Hacking Healthcare,"Lawry,Tom",Bioengineering,https://m.media-amazon.com/images/I/51wsikP6tiL._SY445_SX342_.jpg
+236,Surface and Interfaces for Biomaterials,Vadgama,Bioengineering,https://m.media-amazon.com/images/I/51bJYAFvzcL._SY445_SX342_.jpg
+237,Therapeutic Waves,"Allegratti,Marcello",Bioengineering,https://m.media-amazon.com/images/I/416d8nPGG8L._SY445_SX342_.jpg
+238,Biomedical Imaging,"Braddock,Martin",Bioengineering,https://m.media-amazon.com/images/I/51zbkxKv+JL._SY445_SX342_.jpg
+239,Qualitative Research,Sharan B.Merriam,Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNDFiNWRJSjNLOUwuX1NMMTYwXy5qcGc
+240,Research Design,John W.Creswell,Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFpNmord2o4d0wuX1NMMTYwXy5qcGc
+241,The Research Methods Knowledge Base,William M.K.Trochim,Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNDFWajBoQXVLR0wuX1NMMTYwXy5qcGc
+242,The Craft Of Research,Wayne C. Booth,Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNDE3QldScHBsTEwuX1NMMTYwXy5qcGc
+243,Doing Your Research Project,Judith Bell,Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFUQ3RLd2xLV0wuX1NMMTYwXy5qcGc
+244,Qualitative Inquiry And Research Design,Creswell,Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFDRm9TQjQ5N0wuX1NMMTYwXy5qcGc
+245,The Essential Guide To Doing Your Research Project,Zina O’Leary,Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNDFsLThrcVF3Q0wuX1NMMTYwXy5qcGc
+246,Introducing Research Methodology, Uwe Flick,Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNDFsTForbGRwTkwuX1NMMTYwXy5qcGc
+247,The SAGE Handbook Of Qualitative Research, Norman k. Denzin,Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFJam5mMkN1bkwuX1NMMTYwXy5qcGc
+248,Research Methods In Education,"Louis,Lawrence",Research Book,https://becomeawritertoday.com/wp-content/plugins/aawp/public/image.php?url=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvMzFoT09hV0NmMkwuX1NMMTYwXy5qcGc
+249,Naturalistic Inquiry,"Yvonna,Egon",Research Book,https://th.bing.com/th/id/R.ee4b4d0b0f592cd6b4bd702e0a29c95a?rik=nZx8kHa%2baefYbg&riu=http%3a%2f%2fwww2.alibris-static.com%2fnaturalistic-inquiry%2fisbn%2f9780803924314_l.jpg&ehk=QCFz6jB3J%2b12N2ahHCvrAby5lDmyyyWlX3f6YAmhMqI%3d&risl=&pid=ImgRaw&r=0
+250,The Foundations of Social Research,Michael Crotty,Research Book,https://covers.openlibrary.org/b/id/512171-M.jpg
+251,The Basis Of Digital Forensics,John Sammons,Digital Forensics,https://imgv2-1-f.scribdassets.com/img/word_document/282666778/original/bf13e41a6e/1585913695?v=1
+252,Network Forensics Tracking Hackers,Davidoff,Digital Forensics,https://m.media-amazon.com/images/I/51XkRO-LZBL.jpg
+253,Computer Forensics Jump Start,Michael G.Soloman,Digital Forensics,https://th.bing.com/th/id/OIP.nRFHIrlfs8vH7nze_c2iIQHaJR?pid=ImgDet&rs=1
+254,Cyber Forensics,"Marcella,Albert",Digital Forensics,https://pictures.abebooks.com/isbn/9780849309557-us-300.jpg
+255,Digital Forensics ,Kevin and Chris,Digital Forensics,https://libribook.com/Images/incident-response-computer-forensics-3rd-edition-pdf-download.jpg
+256,Data Science from Scratch,Joel Grus,Data Science,https://www.techgeekbuzz.com/media/post_images/uploads/2020/01/Data-Science-from-Scratch-First-Principles-with-Python-229x300.jpg
+257,Data Science for Business,Foster and Tom,Data Science,https://www.techgeekbuzz.com/media/post_images/uploads/2020/01/Data-Science-For-Business-229x300.jpg
+258,Data Smart,John W.Foreman,Data Science,https://www.techgeekbuzz.com/media/post_images/uploads/2020/01/Data-Smart-Using-Data-Science-to-Transform-Information-into-Insight-240x300.jpg
+259,Python Data Analytics,Tony F.Charles,Data Science,https://www.techgeekbuzz.com/media/post_images/uploads/2020/01/python-data-analytics-how-to-learn-data-science-and-use-machine-learning-introduction-to-deep-learning-to-master-python-for-beginners-200x300.jpg
+260,R in Action ,Dr. Rob Kabacoff,Data Science,https://www.techgeekbuzz.com/media/post_images/uploads/2020/01/R-in-Action-Data-Analysis-and-Graphics-with-R-239x300.jpg
+261,Data Science for Dummies,Lillian Pierson and Jake,Data Science,https://www.techgeekbuzz.com/media/post_images/uploads/2020/01/Data-Science-For-Dummies-2nd-Edition-For-Dummies-Computers-239x300.jpg
+262,Data Science For The Layman,Annalyn and Kenneth,Data Science,https://www.techgeekbuzz.com/media/post_images/uploads/2020/01/Numsense-Data-Science-for-the-Layman-No-Math-Added-200x300.jpg
+263,Data Science and Big Data Analytics,EMC Education,Data Science,https://www.techgeekbuzz.com/media/post_images/uploads/2020/01/Data-Science-and-Big-Data-Analytics-Discovering-Analyzing-Visualizing-and-Presenting-Data-227x300.jpg
+264,Designing Data-Intensive Applications,Martin Kleppmann,Data Science,https://m.media-amazon.com/images/I/91YfNb49PLL._SY342_.jpg
+265,Pattern Recognition and Machine Learning,Christopher M. Bishop,Data Science,https://www.techgeekbuzz.com/media/post_images/uploads/2020/01/Pattern-Recognition-and-Machine-Learning-Information-Science-and-Statistics--222x300.jpg
+266,Hacking: The Art of Exploitation,Jon Erickson,Cyber Security,https://www.computercareers.org/wp-content/uploads/Hacking-The-Art-of-Exploitation.jpeg.webp
+267,Cult of the Dead Cow, Joseph Men,Cyber Security,https://www.computercareers.org/wp-content/uploads/Cult-of-the-Dead-Cow.jpeg.webp
+268,Ghost in the Wires,Kevin and William,Cyber Security,https://www.computercareers.org/wp-content/uploads/Ghost-in-the-Wires.jpeg.webp
+269,The Code Book,Simon Singh,Cyber Security,https://www.computercareers.org/wp-content/uploads/The-Code-Book-The-Science-of-Secrecy-from-Ancient-Egypt-to-Quantum-Cryptography.jpeg.webp
+270,Threat Modeling: Designing for Security,Adam Shostack,Cyber Security,https://www.computercareers.org/wp-content/uploads/Threat-Modeling-Designing-for-Security.jpeg.webp
+271,Hacking Exposed 7,"Stuart McClure, George Kurtz ",Cyber Security,https://www.computercareers.org/wp-content/uploads/Hacking-Exposed-7.jpeg.webp
+272,Social Engineering,Christopher Hadnagy,Cyber Security,https://www.computercareers.org/wp-content/uploads/Social-Engineering-The-Science-of-Human-Hacking.jpeg.webp
+273,The CERT Guide to Insider Threats, Dawn and Andrew,Cyber Security,https://www.computercareers.org/wp-content/uploads/The-CERT-Guide-to-Insider-Threats.jpeg.webp
+274,CompTIA Security+ Get Certified Get Ahead,Darril Gibson,Cyber Security,https://www.computercareers.org/wp-content/uploads/CompTIA-Security-Get-Certified-Get-Ahead.jpeg.webp
+275,Computer Programming And Cyber Security for Beginners,Zach Codings,Cyber Security,https://www.computercareers.org/wp-content/uploads/Computer-Programming-And-Cyber-Security-for-Beginners.jpg.webp
+276,JavaScript: The Definitive Guide,David Flanagan,JavaScript,https://codingbeautydev.com/wp-content/uploads/2022/08/javascript-the-definitive-guide-1.jpg?ezimgfmt=ng:webp/ngcb1
+277, Eloquent JavaScript: A Modern Introduction to Programming,Marijn Haverbeke,JavaScript,https://codingbeautydev.com/wp-content/uploads/2022/11/eloquent-javascript.jpg?ezimgfmt=ng:webp/ngcb1
+278, A Smarter Way to Learn JavaScript, Mark Myers,JavaScript,https://codingbeautydev.com/wp-content/uploads/2022/08/a-smarter-way-to-learn-javascript.jpg?ezimgfmt=ng:webp/ngcb1
+279,Head First JavaScript Programming,"Eric Freeman, Elisabeth Robson",JavaScript,https://codingbeautydev.com/wp-content/uploads/2022/08/head-first-javascript-programming.jpg?ezimgfmt=ng:webp/ngcb1
+280, You Don’t Know JS,Kyle Simpson,JavaScript,https://codingbeautydev.com/wp-content/uploads/2022/09/you-dont-know-js.jpg?ezimgfmt=ng:webp/ngcb1
+281, Effective JavaScript,David Herman,JavaScript,https://codingbeautydev.com/wp-content/uploads/2022/08/effective-javascript.jpg?ezimgfmt=ng:webp/ngcb1
+282, JavaScript: The Good Parts,Douglas Crockford,JavaScript,https://codingbeautydev.com/wp-content/uploads/2022/08/javascript-the-good-parts.jpg?ezimgfmt=ng:webp/ngcb1
+283,Professional JavaScript for Web Developers,Matt Frisbie,JavaScript,https://codingbeautydev.com/wp-content/uploads/2022/08/professional-javascript-for-web-developers.jpg?ezimgfmt=ng:webp/ngcb1
+284,Secrets of the JavaScript Ninja,"John Resig, Bear Bibeault, Josip Maras",JavaScript,https://codingbeautydev.com/wp-content/uploads/2022/08/secrets-of-the-javascript-ninja.jpg?ezimgfmt=ng:webp/ngcb1
+285,Don Quixote,Miguel de Cervantes,Novels,https://m.media-amazon.com/images/I/41y3GywL1lL._SY445_SX342_.jpg
+286,A Tale of Two Cities,Charles Dickens,Novels,https://m.media-amazon.com/images/I/51wpl0WcXFL._SY445_SX342_.jpg
+287,The Fellowship of the Ring,J.R.R. Tolkien,Novels,https://m.media-amazon.com/images/I/41vc44n5IhL._SY445_SX342_.jpg
+288,Le Petit Prince, Antoine de Saint-Exupéry,Novels,https://m.media-amazon.com/images/I/31L9UbLVm-L._SY445_SX342_.jpg
+289,Harry Potter and the Sorcerer's Stone,Harry Potter and the Sorcerer's Stone,Novels,https://m.media-amazon.com/images/I/51HSkTKlauL._SY445_SX342_.jpg
+290,Scouting for Boys,Robert Baden-Powell,Novels,https://m.media-amazon.com/images/I/51actesf9JL._SY445_SX342_.jpg
+291,And Then There Were None,Agatha Christie,Novels,https://m.media-amazon.com/images/I/51MlxNgCsyL._SY445_SX342_.jpg
+292,The Hobbit,J.R.R. Tolkien,Novels,https://m.media-amazon.com/images/I/413V3sIKSJL._SY445_SX342_.jpg
+293,Dream of the Red Chamber,Cáo Xu?qín,Novels,https://m.media-amazon.com/images/I/41TCQH9ENcL._SY445_SX342_.jpg
+294,"The Lion, the Witch, and the Wardrobe",C.S. Lewis,Novels,https://m.media-amazon.com/images/I/51qKxbQEA8L._SY445_SX342_.jpg
+295,She: A History of Adventure,Henry Rider Haggard,Novels,https://m.media-amazon.com/images/I/51hOZMd8f-L._SY445_SX342_.jpg
+296,The Adventures of Pinocchio,Carlo Collodi,Novels,https://m.media-amazon.com/images/I/51AyL3fCqlS._SY445_SX342_.jpg
+297,The Da Vinci Code,Dan Brown,Novels,https://m.media-amazon.com/images/I/41KuPr7kpZL._SY445_SX342_.jpg
+298,Harry Potter and the Chamber of Secrets, J.K. Rowling,Novels,https://m.media-amazon.com/images/I/51mFoFmu0EL._SY445_SX342_.jpg
+299,Harry Potter and the Half-Blood Prince , J.K. Rowling,Novels,https://m.media-amazon.com/images/I/51nRdIU2qHL._SY445_SX342_.jpg
+300,Harry Potter and the Deathly Hallows, J.K. Rowling,Novels,https://m.media-amazon.com/images/I/51jyI6lYi1L._SY445_SX342_.jpg
